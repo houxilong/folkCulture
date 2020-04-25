@@ -7,8 +7,9 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 # 传统民俗共现特征网络
 ## 特征词提取
 ## 项目-特征词二模网络
+!(https://github.com/houxilong/folkCulture/raw/master/项目-特征词网络.png)
 ## 项目关系网络
- !(https://github.com/houxilong/folkCulture/blob/master/传统民俗项目关联网络.jpg?raw=true)
+![民俗项目关系网络](https://github.com/houxilong/folkCulture/raw/master/传统民俗项目关联网络.jpg)
 
 ### Markdown
 
