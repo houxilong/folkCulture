@@ -4,6 +4,12 @@ You can use the [editor on GitHub](https://github.com/houxilong/folkCulture/edit
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+# 传统民俗共现特征网络
+## 特征词提取
+## 项目-特征词二模网络
+## 项目关系网络
+ !(https://github.com/houxilong/folkCulture/blob/master/%E4%BC%A0%E7%BB%9F%E6%B0%91%E4%BF%97%E9%A1%B9%E7%9B%AE%E5%85%B3%E8%81%94%E7%BD%91%E7%BB%9C.jpg?raw=true)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -15,7 +21,7 @@ Syntax highlighted code block
 ## 特征词提取
 ## 项目-特征词二模网络
 ## 项目关系网络
- !(https://github.com/houxilong/folkCulture/blob/master/%E4%BC%A0%E7%BB%9F%E6%B0%91%E4%BF%97%E9%A1%B9%E7%9B%AE%E5%85%B3%E8%81%94%E7%BD%91%E7%BB%9C.jpg?raw=true)
+
  
 - Bulleted
 - List
