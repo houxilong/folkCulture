@@ -1,0 +1,1549 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2020-04-26">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="modularity_class" title="Modularity Class" type="integer">
+        <default>0</default>
+      </attribute>
+    </attributes>
+    <nodes>
+      <node id="农历" label="农历">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="22.826088"></viz:size>
+        <viz:position x="-204.36436" y="-414.11035"></viz:position>
+        <viz:color r="255" g="117" b="237"></viz:color>
+      </node>
+      <node id="端午节（汨罗江畔端午习俗）" label="端午节（汨罗江畔端午习俗）">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="59.211086" y="363.2729"></viz:position>
+        <viz:color r="97" g="161" b="246"></viz:color>
+      </node>
+      <node id="屈原" label="屈原">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="17.934782"></viz:size>
+        <viz:position x="239.97429" y="518.91907"></viz:position>
+        <viz:color r="97" g="161" b="246"></viz:color>
+      </node>
+      <node id="端午节" label="端午节">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="17.934782"></viz:size>
+        <viz:position x="249.70941" y="448.9738"></viz:position>
+        <viz:color r="97" g="161" b="246"></viz:color>
+      </node>
+      <node id="端午" label="端午">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="20.869564"></viz:size>
+        <viz:position x="200.92241" y="472.59018"></viz:position>
+        <viz:color r="97" g="161" b="246"></viz:color>
+      </node>
+      <node id="文化" label="文化">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="60.0"></viz:size>
+        <viz:position x="-285.13208" y="148.62051"></viz:position>
+        <viz:color r="0" g="213" b="248"></viz:color>
+      </node>
+      <node id="端午节（苏州端午习俗）" label="端午节（苏州端午习俗）">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="389.72583" y="468.2916"></viz:position>
+        <viz:color r="97" g="161" b="246"></viz:color>
+      </node>
+      <node id="龙舟" label="龙舟">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="22.826088"></viz:size>
+        <viz:position x="195.5402" y="407.35666"></viz:position>
+        <viz:color r="97" g="161" b="246"></viz:color>
+      </node>
+      <node id="粽子" label="粽子">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="17.934782"></viz:size>
+        <viz:position x="470.1993" y="576.484"></viz:position>
+        <viz:color r="97" g="161" b="246"></viz:color>
+      </node>
+      <node id="七夕节" label="七夕节">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-197.55618" y="-472.89432"></viz:position>
+        <viz:color r="43" g="137" b="105"></viz:color>
+      </node>
+      <node id="乞巧" label="乞巧">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="17.934782"></viz:size>
+        <viz:position x="-202.23242" y="-313.87866"></viz:position>
+        <viz:color r="43" g="137" b="105"></viz:color>
+      </node>
+      <node id="织女" label="织女">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="16.956522"></viz:size>
+        <viz:position x="-162.46814" y="-400.46698"></viz:position>
+        <viz:color r="43" g="137" b="105"></viz:color>
+      </node>
+      <node id="七夕" label="七夕">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="17.934782"></viz:size>
+        <viz:position x="-238.44165" y="-291.7533"></viz:position>
+        <viz:color r="43" g="137" b="105"></viz:color>
+      </node>
+      <node id="锡伯族西迁节" label="锡伯族西迁节">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-139.88794" y="388.11414"></viz:position>
+        <viz:color r="0" g="213" b="248"></viz:color>
+      </node>
+      <node id="民俗" label="民俗">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="24.782608"></viz:size>
+        <viz:position x="-23.944357" y="473.99374"></viz:position>
+        <viz:color r="0" g="213" b="248"></viz:color>
+      </node>
+      <node id="艺术" label="艺术">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="23.804348"></viz:size>
+        <viz:position x="-76.55866" y="574.35144"></viz:position>
+        <viz:color r="0" g="213" b="248"></viz:color>
+      </node>
+      <node id="楚雄彝族火把节*" label="楚雄彝族火把节*">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-568.3133" y="242.46884"></viz:position>
+        <viz:color r="0" g="213" b="248"></viz:color>
+      </node>
+      <node id="彝族" label="彝族">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="22.826088"></viz:size>
+        <viz:position x="-489.88812" y="474.83566"></viz:position>
+        <viz:color r="0" g="213" b="248"></viz:color>
+      </node>
+      <node id="服饰" label="服饰">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="48.260868"></viz:size>
+        <viz:position x="-846.98816" y="90.23792"></viz:position>
+        <viz:color r="33" g="209" b="54"></viz:color>
+      </node>
+      <node id="祭祀" label="祭祀">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="52.173912"></viz:size>
+        <viz:position x="-74.749306" y="-46.99778"></viz:position>
+        <viz:color r="189" g="157" b="0"></viz:color>
+      </node>
+      <node id="黎族三月三节" label="黎族三月三节">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-421.20554" y="64.255745"></viz:position>
+        <viz:color r="167" g="96" b="100"></viz:color>
+      </node>
+      <node id="黎族" label="黎族">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="16.956522"></viz:size>
+        <viz:position x="-654.51166" y="-7.6290817"></viz:position>
+        <viz:color r="33" g="209" b="54"></viz:color>
+      </node>
+      <node id="三月三" label="三月三">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="20.869564"></viz:size>
+        <viz:position x="-566.1061" y="-152.5678"></viz:position>
+        <viz:color r="167" g="96" b="100"></viz:color>
+      </node>
+      <node id="习俗" label="习俗">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="28.695652"></viz:size>
+        <viz:position x="-202.35797" y="274.44647"></viz:position>
+        <viz:color r="167" g="96" b="100"></viz:color>
+      </node>
+      <node id="活动" label="活动">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="37.5"></viz:size>
+        <viz:position x="-122.70696" y="-141.43042"></viz:position>
+        <viz:color r="189" g="157" b="0"></viz:color>
+      </node>
+      <node id="贺州瑶族盘王节" label="贺州瑶族盘王节">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-1322.9066" y="783.91724"></viz:position>
+        <viz:color r="255" g="112" b="67"></viz:color>
+      </node>
+      <node id="瑶族" label="瑶族">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="17.934782"></viz:size>
+        <viz:position x="-1223.4734" y="611.3888"></viz:position>
+        <viz:color r="255" g="112" b="67"></viz:color>
+      </node>
+      <node id="仪式" label="仪式">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="25.76087"></viz:size>
+        <viz:position x="-1223.2753" y="842.935"></viz:position>
+        <viz:color r="255" g="112" b="67"></viz:color>
+      </node>
+      <node id="瑶族盘王节" label="瑶族盘王节">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="19.891304"></viz:size>
+        <viz:position x="-1346.09" y="748.0695"></viz:position>
+        <viz:color r="255" g="112" b="67"></viz:color>
+      </node>
+      <node id="民族" label="民族">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="27.717392"></viz:size>
+        <viz:position x="-528.218" y="183.04568"></viz:position>
+        <viz:color r="0" g="213" b="248"></viz:color>
+      </node>
+      <node id="妇女" label="妇女">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="23.804348"></viz:size>
+        <viz:position x="-920.2598" y="59.862915"></viz:position>
+        <viz:color r="33" g="209" b="54"></viz:color>
+      </node>
+      <node id="苗族" label="苗族">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="36.52174"></viz:size>
+        <viz:position x="-709.3735" y="-29.027313"></viz:position>
+        <viz:color r="33" g="209" b="54"></viz:color>
+      </node>
+      <node id="节日" label="节日">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="31.630434"></viz:size>
+        <viz:position x="-480.17804" y="-199.52385"></viz:position>
+        <viz:color r="167" g="96" b="100"></viz:color>
+      </node>
+      <node id="侗族" label="侗族">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="21.847826"></viz:size>
+        <viz:position x="-552.934" y="-271.10626"></viz:position>
+        <viz:color r="33" g="209" b="54"></viz:color>
+      </node>
+      <node id="信仰" label="信仰">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="22.826088"></viz:size>
+        <viz:position x="236.82655" y="-118.17087"></viz:position>
+        <viz:color r="255" g="117" b="237"></viz:color>
+      </node>
+      <node id="黄帝陵祭祀" label="黄帝陵祭祀">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-291.1102" y="61.767963"></viz:position>
+        <viz:color r="189" g="157" b="0"></viz:color>
+      </node>
+      <node id="妈祖" label="妈祖">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="21.847826"></viz:size>
+        <viz:position x="-104.7712" y="254.54504"></viz:position>
+        <viz:color r="255" g="117" b="237"></viz:color>
+      </node>
+      <node id="蒙古族" label="蒙古族">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="26.73913"></viz:size>
+        <viz:position x="-645.49445" y="446.03748"></viz:position>
+        <viz:color r="0" g="213" b="248"></viz:color>
+      </node>
+      <node id="庙会" label="庙会">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="42.391304"></viz:size>
+        <viz:position x="112.61801" y="-187.757"></viz:position>
+        <viz:color r="255" g="117" b="237"></viz:color>
+      </node>
+      <node id="表演" label="表演">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="42.391304"></viz:size>
+        <viz:position x="-7.0290637" y="596.0316"></viz:position>
+        <viz:color r="0" g="213" b="248"></viz:color>
+      </node>
+      <node id="融水苗族系列坡会群" label="融水苗族系列坡会群">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-487.22784" y="-49.931206"></viz:position>
+        <viz:color r="33" g="209" b="54"></viz:color>
+      </node>
+      <node id="芦笙" label="芦笙">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="20.869564"></viz:size>
+        <viz:position x="-466.49246" y="-255.64784"></viz:position>
+        <viz:color r="33" g="209" b="54"></viz:color>
+      </node>
+      <node id="社火" label="社火">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="25.76087"></viz:size>
+        <viz:position x="167.41959" y="580.99506"></viz:position>
+        <viz:color r="0" g="213" b="248"></viz:color>
+      </node>
+      <node id="鄂尔多斯婚礼" label="鄂尔多斯婚礼">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-574.1942" y="422.3615"></viz:position>
+        <viz:color r="255" g="112" b="67"></viz:color>
+      </node>
+      <node id="婚礼" label="婚礼">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="22.826088"></viz:size>
+        <viz:position x="-802.12683" y="720.84796"></viz:position>
+        <viz:color r="255" g="112" b="67"></viz:color>
+      </node>
+      <node id="婚俗" label="婚俗">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="25.76087"></viz:size>
+        <viz:position x="-813.5696" y="645.7312"></viz:position>
+        <viz:color r="255" g="112" b="67"></viz:color>
+      </node>
+      <node id="撒拉族婚礼*" label="撒拉族婚礼*">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-824.1546" y="885.7745"></viz:position>
+        <viz:color r="255" g="112" b="67"></viz:color>
+      </node>
+      <node id="新娘" label="新娘">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="25.76087"></viz:size>
+        <viz:position x="-674.53735" y="784.0898"></viz:position>
+        <viz:color r="255" g="112" b="67"></viz:color>
+      </node>
+      <node id="男方" label="男方">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="17.934782"></viz:size>
+        <viz:position x="-905.7049" y="983.7251"></viz:position>
+        <viz:color r="255" g="112" b="67"></viz:color>
+      </node>
+      <node id="新郎" label="新郎">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="22.826088"></viz:size>
+        <viz:position x="-894.1981" y="837.3254"></viz:position>
+        <viz:color r="255" g="112" b="67"></viz:color>
+      </node>
+      <node id="苗族服饰（昌宁苗族服饰）" label="苗族服饰（昌宁苗族服饰）">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-941.29535" y="-32.736633"></viz:position>
+        <viz:color r="33" g="209" b="54"></viz:color>
+      </node>
+      <node id="苗族服饰" label="苗族服饰">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="20.869564"></viz:size>
+        <viz:position x="-1068.7065" y="-122.150185"></viz:position>
+        <viz:color r="33" g="209" b="54"></viz:color>
+      </node>
+      <node id="图案" label="图案">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="25.76087"></viz:size>
+        <viz:position x="-818.29816" y="-3.1294417"></viz:position>
+        <viz:color r="33" g="209" b="54"></viz:color>
+      </node>
+      <node id="贺州瑶族服饰" label="贺州瑶族服饰">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-1113.4735" y="310.74216"></viz:position>
+        <viz:color r="33" g="209" b="54"></viz:color>
+      </node>
+      <node id="挑花" label="挑花">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="16.956522"></viz:size>
+        <viz:position x="-1166.7554" y="131.02388"></viz:position>
+        <viz:color r="33" g="209" b="54"></viz:color>
+      </node>
+      <node id="南丹白裤瑶服饰" label="南丹白裤瑶服饰">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-619.213" y="78.82861"></viz:position>
+        <viz:color r="0" g="213" b="248"></viz:color>
+      </node>
+      <node id="拜灯山民俗社火" label="拜灯山民俗社火">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="200.61671" y="324.30826"></viz:position>
+        <viz:color r="0" g="213" b="248"></viz:color>
+      </node>
+      <node id="民间" label="民间">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="26.73913"></viz:size>
+        <viz:position x="302.9536" y="7.907506"></viz:position>
+        <viz:color r="255" g="117" b="237"></viz:color>
+      </node>
+      <node id="祭海" label="祭海">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="17.934782"></viz:size>
+        <viz:position x="-102.78585" y="173.25066"></viz:position>
+        <viz:color r="189" g="157" b="0"></viz:color>
+      </node>
+      <node id="渔民" label="渔民">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="22.826088"></viz:size>
+        <viz:position x="174.09271" y="-79.24745"></viz:position>
+        <viz:color r="189" g="157" b="0"></viz:color>
+      </node>
+      <node id="渔民开洋、谢洋节（日照）" label="渔民开洋、谢洋节（日照）">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="153.9646" y="-14.481623"></viz:position>
+        <viz:color r="189" g="157" b="0"></viz:color>
+      </node>
+      <node id="龙王" label="龙王">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="277.94342" y="158.52005"></viz:position>
+        <viz:color r="189" g="157" b="0"></viz:color>
+      </node>
+      <node id="渔民开洋、谢洋节（烟台）" label="渔民开洋、谢洋节（烟台）">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="28.001883" y="-156.79799"></viz:position>
+        <viz:color r="189" g="157" b="0"></viz:color>
+      </node>
+      <node id="渔民山洋、谢洋节（岱山）" label="渔民山洋、谢洋节（岱山）">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="141.03624" y="110.21221"></viz:position>
+        <viz:color r="189" g="157" b="0"></viz:color>
+      </node>
+      <node id="渔民开洋、谢洋节（象山）" label="渔民开洋、谢洋节（象山）">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="71.63606" y="-134.1342"></viz:position>
+        <viz:color r="189" g="157" b="0"></viz:color>
+      </node>
+      <node id="畲族三月三" label="畲族三月三">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-472.0723" y="-0.67614585"></viz:position>
+        <viz:color r="167" g="96" b="100"></viz:color>
+      </node>
+      <node id="畲族" label="畲族">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-702.5009" y="179.0301"></viz:position>
+        <viz:color r="167" g="96" b="100"></viz:color>
+      </node>
+      <node id="对歌" label="对歌">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="17.934782"></viz:size>
+        <viz:position x="-701.15326" y="99.654274"></viz:position>
+        <viz:color r="167" g="96" b="100"></viz:color>
+      </node>
+      <node id="传统" label="传统">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="19.891304"></viz:size>
+        <viz:position x="-415.25427" y="-71.25552"></viz:position>
+        <viz:color r="0" g="213" b="248"></viz:color>
+      </node>
+      <node id="台江苗族独木龙舟节" label="台江苗族独木龙舟节">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-207.0184" y="110.69107"></viz:position>
+        <viz:color r="189" g="157" b="0"></viz:color>
+      </node>
+      <node id="苗族四月八姑娘节" label="苗族四月八姑娘节">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-578.45337" y="-29.250566"></viz:position>
+        <viz:color r="33" g="209" b="54"></viz:color>
+      </node>
+      <node id="苗年*" label="苗年*">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-404.26498" y="-112.58711"></viz:position>
+        <viz:color r="167" g="96" b="100"></viz:color>
+      </node>
+      <node id="庙会（东岳庙庙会）" label="庙会（东岳庙庙会）">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="307.4696" y="-150.2524"></viz:position>
+        <viz:color r="255" g="117" b="237"></viz:color>
+      </node>
+      <node id="庙会（妙峰山庙会)" label="庙会（妙峰山庙会)">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="185.65462" y="-358.05502"></viz:position>
+        <viz:color r="255" g="117" b="237"></viz:color>
+      </node>
+      <node id="香会" label="香会">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="16.956522"></viz:size>
+        <viz:position x="74.01777" y="-319.27118"></viz:position>
+        <viz:color r="255" g="117" b="237"></viz:color>
+      </node>
+      <node id="香客" label="香客">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="17.934782"></viz:size>
+        <viz:position x="209.87805" y="-404.8006"></viz:position>
+        <viz:color r="255" g="117" b="237"></viz:color>
+      </node>
+      <node id="泰山东岳庙会习俗" label="泰山东岳庙会习俗">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="286.31534" y="-226.32822"></viz:position>
+        <viz:color r="255" g="117" b="237"></viz:color>
+      </node>
+      <node id="青海湖祭海" label="青海湖祭海">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-105.37245" y="25.023844"></viz:position>
+        <viz:color r="189" g="157" b="0"></viz:color>
+      </node>
+      <node id="大坝高装" label="大坝高装">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-141.87149" y="432.1682"></viz:position>
+        <viz:color r="0" g="213" b="248"></viz:color>
+      </node>
+      <node id="庄浪县高抬" label="庄浪县高抬">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="58.774704" y="687.26636"></viz:position>
+        <viz:color r="0" g="213" b="248"></viz:color>
+      </node>
+      <node id="蟳埔女习俗" label="蟳埔女习俗">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-357.89664" y="505.18976"></viz:position>
+        <viz:color r="255" g="112" b="67"></viz:color>
+      </node>
+      <node id="塔吉克族婚俗" label="塔吉克族婚俗">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-815.58856" y="771.3193"></viz:position>
+        <viz:color r="255" g="112" b="67"></viz:color>
+      </node>
+      <node id="肃北雪山蒙古族服饰" label="肃北雪山蒙古族服饰">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-833.4922" y="257.62253"></viz:position>
+        <viz:color r="33" g="209" b="54"></viz:color>
+      </node>
+      <node id="畲族服饰" label="畲族服饰">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-885.2173" y="153.819"></viz:position>
+        <viz:color r="167" g="96" b="100"></viz:color>
+      </node>
+      <node id="黎族传统服饰" label="黎族传统服饰">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-671.65314" y="-109.23452"></viz:position>
+        <viz:color r="33" g="209" b="54"></viz:color>
+      </node>
+      <node id="方言" label="方言">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="16.956522"></viz:size>
+        <viz:position x="-848.6946" y="-200.7053"></viz:position>
+        <viz:color r="33" g="209" b="54"></viz:color>
+      </node>
+      <node id="黎族传统服饰（民族研究所）" label="黎族传统服饰（民族研究所）">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-800.6961" y="-85.94644"></viz:position>
+        <viz:color r="33" g="209" b="54"></viz:color>
+      </node>
+      <node id="裕固族服饰*" label="裕固族服饰*">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-574.1071" y="135.05731"></viz:position>
+        <viz:color r="0" g="213" b="248"></viz:color>
+      </node>
+      <node id="哈萨克族服饰" label="哈萨克族服饰">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-1042.9282" y="39.76517"></viz:position>
+        <viz:color r="33" g="209" b="54"></viz:color>
+      </node>
+      <node id="刺绣" label="刺绣">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="20.869564"></viz:size>
+        <viz:position x="-1092.7665" y="-83.00395"></viz:position>
+        <viz:color r="33" g="209" b="54"></viz:color>
+      </node>
+      <node id="侗年*" label="侗年*">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-414.28204" y="-387.86105"></viz:position>
+        <viz:color r="255" g="117" b="237"></viz:color>
+      </node>
+      <node id="中和节（永济背冰）" label="中和节（永济背冰）">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="80.51752" y="630.7261"></viz:position>
+        <viz:color r="0" g="213" b="248"></viz:color>
+      </node>
+      <node id="布依族三月三（贵州省贞丰县）" label="布依族三月三（贵州省贞丰县）">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-671.49524" y="-295.23398"></viz:position>
+        <viz:color r="167" g="96" b="100"></viz:color>
+      </node>
+      <node id="布依族" label="布依族">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="16.956522"></viz:size>
+        <viz:position x="-862.26025" y="-269.457"></viz:position>
+        <viz:color r="167" g="96" b="100"></viz:color>
+      </node>
+      <node id="布依族三月三（贵州省望谟县）" label="布依族三月三（贵州省望谟县）">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-707.2414" y="-181.1645"></viz:position>
+        <viz:color r="167" g="96" b="100"></viz:color>
+      </node>
+      <node id="彝族年" label="彝族年">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-259.50748" y="397.93915"></viz:position>
+        <viz:color r="0" g="213" b="248"></viz:color>
+      </node>
+      <node id="网船会*" label="网船会*">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="238.0801" y="-205.0705"></viz:position>
+        <viz:color r="255" g="117" b="237"></viz:color>
+      </node>
+      <node id="侗族“月也”习俗" label="侗族“月也”习俗">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-338.8154" y="-134.14014"></viz:position>
+        <viz:color r="33" g="209" b="54"></viz:color>
+      </node>
+      <node id="达斡尔族传统婚俗" label="达斡尔族传统婚俗">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-762.3495" y="986.8212"></viz:position>
+        <viz:color r="255" g="112" b="67"></viz:color>
+      </node>
+      <node id="女方" label="女方">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="16.956522"></viz:size>
+        <viz:position x="-728.44403" y="906.3077"></viz:position>
+        <viz:color r="255" g="112" b="67"></viz:color>
+      </node>
+      <node id="哈萨克族婚俗" label="哈萨克族婚俗">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-977.2654" y="818.1715"></viz:position>
+        <viz:color r="255" g="112" b="67"></viz:color>
+      </node>
+      <node id="回族传统婚俗" label="回族传统婚俗">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-821.6411" y="947.8347"></viz:position>
+        <viz:color r="255" g="112" b="67"></viz:color>
+      </node>
+      <node id="锡伯族婚俗" label="锡伯族婚俗">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-784.1253" y="840.94214"></viz:position>
+        <viz:color r="255" g="112" b="67"></viz:color>
+      </node>
+      <node id="婚俗（彝族传统婚俗）" label="婚俗（彝族传统婚俗）">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-624.6914" y="649.4487"></viz:position>
+        <viz:color r="0" g="213" b="248"></viz:color>
+      </node>
+      <node id="马仙信俗" label="马仙信俗">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="186.05237" y="-155.90092"></viz:position>
+        <viz:color r="255" g="117" b="237"></viz:color>
+      </node>
+      <node id="信俗" label="信俗">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="23.804348"></viz:size>
+        <viz:position x="372.01904" y="-93.96196"></viz:position>
+        <viz:color r="255" g="117" b="237"></viz:color>
+      </node>
+      <node id="布依族服饰" label="布依族服饰">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-1013.5629" y="-98.30154"></viz:position>
+        <viz:color r="33" g="209" b="54"></viz:color>
+      </node>
+      <node id="蜡染" label="蜡染">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="17.934782"></viz:size>
+        <viz:position x="-1132.2827" y="-41.777664"></viz:position>
+        <viz:color r="33" g="209" b="54"></viz:color>
+      </node>
+      <node id="侗族服饰" label="侗族服饰">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-769.0" y="-159.83218"></viz:position>
+        <viz:color r="33" g="209" b="54"></viz:color>
+      </node>
+      <node id="端午节（罗店划龙船习俗）" label="端午节（罗店划龙船习俗）">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="13.08935" y="443.28473"></viz:position>
+        <viz:color r="0" g="213" b="248"></viz:color>
+      </node>
+      <node id="七夕节（乞巧节）" label="七夕节（乞巧节）">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-215.21371" y="-102.30499"></viz:position>
+        <viz:color r="43" g="137" b="105"></viz:color>
+      </node>
+      <node id="炎帝祭典（宝鸡）" label="炎帝祭典（宝鸡）">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-156.14851" y="0.16319841"></viz:position>
+        <viz:color r="189" g="157" b="0"></viz:color>
+      </node>
+      <node id="那达慕（青海海西）" label="那达慕（青海海西）">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-381.92242" y="278.03946"></viz:position>
+        <viz:color r="0" g="213" b="248"></viz:color>
+      </node>
+      <node id="那达慕（新疆和静）" label="那达慕（新疆和静）">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-470.08954" y="208.07631"></viz:position>
+        <viz:color r="0" g="213" b="248"></viz:color>
+      </node>
+      <node id="蒙古族婚礼（阿日奔苏木婚礼）" label="蒙古族婚礼（阿日奔苏木婚礼）">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-772.32446" y="672.54364"></viz:position>
+        <viz:color r="255" g="112" b="67"></viz:color>
+      </node>
+      <node id="蒙古族婚礼（蒙古族婚俗）" label="蒙古族婚礼（蒙古族婚俗）">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-673.2903" y="696.3761"></viz:position>
+        <viz:color r="255" g="112" b="67"></viz:color>
+      </node>
+      <node id="苗族服饰（湖南湘西）" label="苗族服饰（湖南湘西）">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-831.8152" y="-58.286953"></viz:position>
+        <viz:color r="33" g="209" b="54"></viz:color>
+      </node>
+      <node id="苗族服饰（贵州桐梓）" label="苗族服饰（贵州桐梓）">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-1057.191" y="-7.180152"></viz:position>
+        <viz:color r="33" g="209" b="54"></viz:color>
+      </node>
+      <node id="苗族服饰（贵州安顺）" label="苗族服饰（贵州安顺）">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-939.98047" y="17.190285"></viz:position>
+        <viz:color r="33" g="209" b="54"></viz:color>
+      </node>
+      <node id="苗族服饰（关岭布依族）" label="苗族服饰（关岭布依族）">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-914.02606" y="-148.0037"></viz:position>
+        <viz:color r="33" g="209" b="54"></viz:color>
+      </node>
+      <node id="苗族服饰（贵州纳雍）" label="苗族服饰（贵州纳雍）">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-1020.4486" y="-57.210026"></viz:position>
+        <viz:color r="33" g="209" b="54"></viz:color>
+      </node>
+      <node id="苗族服饰（贵州剑河）" label="苗族服饰（贵州剑河）">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-882.3836" y="-120.85744"></viz:position>
+        <viz:color r="33" g="209" b="54"></viz:color>
+      </node>
+      <node id="苗族服饰（贵州台江）" label="苗族服饰（贵州台江）">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-951.639" y="-177.41177"></viz:position>
+        <viz:color r="33" g="209" b="54"></viz:color>
+      </node>
+      <node id="苗族服饰（贵州榕江）" label="苗族服饰（贵州榕江）">
+        <attvalues>
+          <attvalue for="modularity_class" value="2"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-757.8589" y="131.34213"></viz:position>
+        <viz:color r="0" g="213" b="248"></viz:color>
+      </node>
+      <node id="苗族服饰（贵州六盘水）" label="苗族服饰（贵州六盘水）">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-1130.2781" y="62.34152"></viz:position>
+        <viz:color r="33" g="209" b="54"></viz:color>
+      </node>
+      <node id="端午节（嘉兴端午习俗）" label="端午节（嘉兴端午习俗）">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="62.072674" y="408.48904"></viz:position>
+        <viz:color r="97" g="161" b="246"></viz:color>
+      </node>
+      <node id="端午节（蒋村龙舟胜会）" label="端午节（蒋村龙舟胜会）">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="318.10712" y="345.7301"></viz:position>
+        <viz:color r="97" g="161" b="246"></viz:color>
+      </node>
+      <node id="七夕节（石塘七夕习俗）" label="七夕节（石塘七夕习俗）">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-289.72876" y="-49.550453"></viz:position>
+        <viz:color r="167" g="96" b="100"></viz:color>
+      </node>
+      <node id="七夕节（天河乞巧习俗）" label="七夕节（天河乞巧习俗）">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-111.3225" y="-337.4134"></viz:position>
+        <viz:color r="43" g="137" b="105"></viz:color>
+      </node>
+      <node id="妈祖祭典（洞头妈祖祭典）" label="妈祖祭典（洞头妈祖祭典）">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="83.89889" y="69.761765"></viz:position>
+        <viz:color r="255" g="117" b="237"></viz:color>
+      </node>
+      <node id="庙会（九华山庙会）" label="庙会（九华山庙会）">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-175.67297" y="-227.51529"></viz:position>
+        <viz:color r="255" g="117" b="237"></viz:color>
+      </node>
+      <node id="嫘祖信俗" label="嫘祖信俗">
+        <attvalues>
+          <attvalue for="modularity_class" value="5"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="1.7347372" y="-208.403"></viz:position>
+        <viz:color r="189" g="157" b="0"></viz:color>
+      </node>
+      <node id="端午节（泽林旱龙舟）" label="端午节（泽林旱龙舟）">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="339.28238" y="602.7281"></viz:position>
+        <viz:color r="97" g="161" b="246"></viz:color>
+      </node>
+      <node id="五月" label="五月">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="17.934782"></viz:size>
+        <viz:position x="441.60352" y="656.5024"></viz:position>
+        <viz:color r="97" g="161" b="246"></viz:color>
+      </node>
+      <node id="七夕节（郧西七夕）" label="七夕节（郧西七夕）">
+        <attvalues>
+          <attvalue for="modularity_class" value="1"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-225.09674" y="-185.61218"></viz:position>
+        <viz:color r="43" g="137" b="105"></viz:color>
+      </node>
+      <node id="三月三（报京三月三）" label="三月三（报京三月三）">
+        <attvalues>
+          <attvalue for="modularity_class" value="7"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-569.3766" y="-342.71918"></viz:position>
+        <viz:color r="33" g="209" b="54"></viz:color>
+      </node>
+      <node id="妈祖祭典（海口天后祀奉）" label="妈祖祭典（海口天后祀奉）">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="15.915548" y="46.215305"></viz:position>
+        <viz:color r="255" g="117" b="237"></viz:color>
+      </node>
+      <node id="庙会（苏州轧神仙庙会）" label="庙会（苏州轧神仙庙会）">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="46.086338" y="7.9347944"></viz:position>
+        <viz:color r="255" g="117" b="237"></viz:color>
+      </node>
+      <node id="庙会（宝顶架香庙会）" label="庙会（宝顶架香庙会）">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-0.20072258" y="-360.91815"></viz:position>
+        <viz:color r="255" g="117" b="237"></viz:color>
+      </node>
+      <node id="庙会（丰都庙会）" label="庙会（丰都庙会）">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-31.109594" y="-111.95059"></viz:position>
+        <viz:color r="255" g="117" b="237"></viz:color>
+      </node>
+      <node id="冼夫人信俗(茂名)" label="冼夫人信俗(茂名)">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="275.31146" y="-92.972916"></viz:position>
+        <viz:color r="255" g="117" b="237"></viz:color>
+      </node>
+      <node id="冼夫人" label="冼夫人">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="17.934782"></viz:size>
+        <viz:position x="503.68695" y="-153.42647"></viz:position>
+        <viz:color r="255" g="117" b="237"></viz:color>
+      </node>
+      <node id="冼夫人信俗（海口）" label="冼夫人信俗（海口）">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="551.4752" y="-72.41835"></viz:position>
+        <viz:color r="255" g="117" b="237"></viz:color>
+      </node>
+      <node id="军坡" label="军坡">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="16.956522"></viz:size>
+        <viz:position x="700.7645" y="-156.44225"></viz:position>
+        <viz:color r="255" g="117" b="237"></viz:color>
+      </node>
+      <node id="冼夫人信俗（安定县）" label="冼夫人信俗（安定县）">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="600.7258" y="-130.90611"></viz:position>
+        <viz:color r="255" g="117" b="237"></viz:color>
+      </node>
+      <node id="冼夫人信俗(澄迈县)" label="冼夫人信俗(澄迈县)">
+        <attvalues>
+          <attvalue for="modularity_class" value="3"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="587.37225" y="-180.44951"></viz:position>
+        <viz:color r="255" g="117" b="237"></viz:color>
+      </node>
+      <node id="婚俗（赫哲族婚俗）" label="婚俗（赫哲族婚俗）">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-815.0244" y="812.9616"></viz:position>
+        <viz:color r="255" g="112" b="67"></viz:color>
+      </node>
+      <node id="婚俗（畲族婚俗）" label="婚俗（畲族婚俗）">
+        <attvalues>
+          <attvalue for="modularity_class" value="6"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-774.4531" y="359.57117"></viz:position>
+        <viz:color r="167" g="96" b="100"></viz:color>
+      </node>
+      <node id="婚俗（瑶族婚俗）" label="婚俗（瑶族婚俗）">
+        <attvalues>
+          <attvalue for="modularity_class" value="4"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="-1029.0195" y="717.9725"></viz:position>
+        <viz:color r="255" g="112" b="67"></viz:color>
+      </node>
+      <node id="端午节（屈原故里端午习俗）（秭归）" label="端午节（屈原故里端午习俗）（秭归）">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="386.12003" y="543.8359"></viz:position>
+        <viz:color r="97" g="161" b="246"></viz:color>
+      </node>
+      <node id="端午节（屈原故里端午习俗）" label="端午节（屈原故里端午习俗）">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="314.52438" y="569.2445"></viz:position>
+        <viz:color r="97" g="161" b="246"></viz:color>
+      </node>
+      <node id="端午节*" label="端午节*">
+        <attvalues>
+          <attvalue for="modularity_class" value="0"></attvalue>
+        </attvalues>
+        <viz:size value="18.913044"></viz:size>
+        <viz:position x="370.44202" y="505.19632"></viz:position>
+        <viz:color r="97" g="161" b="246"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="10" source="端午节（汨罗江畔端午习俗）" target="屈原"></edge>
+      <edge id="11" source="端午节（汨罗江畔端午习俗）" target="端午节"></edge>
+      <edge id="12" source="端午节（汨罗江畔端午习俗）" target="端午"></edge>
+      <edge id="14" source="端午节（汨罗江畔端午习俗）" target="文化"></edge>
+      <edge id="15" source="端午节（苏州端午习俗）" target="端午节"></edge>
+      <edge id="17" source="端午节（苏州端午习俗）" target="龙舟"></edge>
+      <edge id="19" source="端午节（苏州端午习俗）" target="粽子"></edge>
+      <edge id="20" source="七夕节" target="乞巧"></edge>
+      <edge id="22" source="七夕节" target="织女"></edge>
+      <edge id="23" source="七夕节" target="七夕"></edge>
+      <edge id="47" source="锡伯族西迁节" target="民俗"></edge>
+      <edge id="48" source="锡伯族西迁节" target="艺术"></edge>
+      <edge id="49" source="锡伯族西迁节" target="文化"></edge>
+      <edge id="50" source="楚雄彝族火把节*" target="彝族"></edge>
+      <edge id="53" source="楚雄彝族火把节*" target="服饰"></edge>
+      <edge id="54" source="楚雄彝族火把节*" target="文化"></edge>
+      <edge id="60" source="黎族三月三节" target="黎族"></edge>
+      <edge id="61" source="黎族三月三节" target="三月三"></edge>
+      <edge id="62" source="黎族三月三节" target="文化"></edge>
+      <edge id="63" source="黎族三月三节" target="习俗"></edge>
+      <edge id="70" source="贺州瑶族盘王节" target="瑶族"></edge>
+      <edge id="72" source="贺州瑶族盘王节" target="仪式"></edge>
+      <edge id="74" source="贺州瑶族盘王节" target="瑶族盘王节"></edge>
+      <edge id="150" source="黄帝陵祭祀" target="祭祀"></edge>
+      <edge id="153" source="黄帝陵祭祀" target="民族"></edge>
+      <edge id="154" source="黄帝陵祭祀" target="文化"></edge>
+      <edge id="226" source="融水苗族系列坡会群" target="芦笙"></edge>
+      <edge id="227" source="融水苗族系列坡会群" target="苗族"></edge>
+      <edge id="228" source="融水苗族系列坡会群" target="文化"></edge>
+      <edge id="270" source="鄂尔多斯婚礼" target="婚礼"></edge>
+      <edge id="271" source="鄂尔多斯婚礼" target="文化"></edge>
+      <edge id="272" source="鄂尔多斯婚礼" target="婚俗"></edge>
+      <edge id="273" source="鄂尔多斯婚礼" target="民族"></edge>
+      <edge id="281" source="撒拉族婚礼*" target="新娘"></edge>
+      <edge id="282" source="撒拉族婚礼*" target="婚礼"></edge>
+      <edge id="283" source="撒拉族婚礼*" target="男方"></edge>
+      <edge id="284" source="撒拉族婚礼*" target="新郎"></edge>
+      <edge id="320" source="苗族服饰（昌宁苗族服饰）" target="苗族"></edge>
+      <edge id="321" source="苗族服饰（昌宁苗族服饰）" target="苗族服饰"></edge>
+      <edge id="322" source="苗族服饰（昌宁苗族服饰）" target="图案"></edge>
+      <edge id="323" source="苗族服饰（昌宁苗族服饰）" target="服饰"></edge>
+      <edge id="324" source="苗族服饰（昌宁苗族服饰）" target="妇女"></edge>
+      <edge id="330" source="贺州瑶族服饰" target="瑶族"></edge>
+      <edge id="332" source="贺州瑶族服饰" target="服饰"></edge>
+      <edge id="333" source="贺州瑶族服饰" target="挑花"></edge>
+      <edge id="336" source="南丹白裤瑶服饰" target="服饰"></edge>
+      <edge id="338" source="南丹白裤瑶服饰" target="文化"></edge>
+      <edge id="339" source="南丹白裤瑶服饰" target="图案"></edge>
+      <edge id="400" source="拜灯山民俗社火" target="社火"></edge>
+      <edge id="401" source="拜灯山民俗社火" target="民俗"></edge>
+      <edge id="403" source="拜灯山民俗社火" target="民间"></edge>
+      <edge id="415" source="渔民开洋、谢洋节（日照）" target="渔民"></edge>
+      <edge id="416" source="渔民开洋、谢洋节（日照）" target="龙王"></edge>
+      <edge id="417" source="渔民开洋、谢洋节（日照）" target="活动"></edge>
+      <edge id="420" source="渔民开洋、谢洋节（烟台）" target="渔民"></edge>
+      <edge id="421" source="渔民开洋、谢洋节（烟台）" target="祭祀"></edge>
+      <edge id="423" source="渔民开洋、谢洋节（烟台）" target="活动"></edge>
+      <edge id="425" source="渔民山洋、谢洋节（岱山）" target="祭海"></edge>
+      <edge id="426" source="渔民山洋、谢洋节（岱山）" target="龙王"></edge>
+      <edge id="427" source="渔民山洋、谢洋节（岱山）" target="渔民"></edge>
+      <edge id="432" source="渔民开洋、谢洋节（象山）" target="祭祀"></edge>
+      <edge id="433" source="渔民开洋、谢洋节（象山）" target="渔民"></edge>
+      <edge id="434" source="渔民开洋、谢洋节（象山）" target="活动"></edge>
+      <edge id="435" source="畲族三月三" target="畲族"></edge>
+      <edge id="436" source="畲族三月三" target="三月三"></edge>
+      <edge id="437" source="畲族三月三" target="对歌"></edge>
+      <edge id="438" source="畲族三月三" target="传统"></edge>
+      <edge id="439" source="畲族三月三" target="活动"></edge>
+      <edge id="445" source="台江苗族独木龙舟节" target="苗族"></edge>
+      <edge id="446" source="台江苗族独木龙舟节" target="龙舟"></edge>
+      <edge id="449" source="台江苗族独木龙舟节" target="活动"></edge>
+      <edge id="456" source="苗族四月八姑娘节" target="苗族"></edge>
+      <edge id="457" source="苗族四月八姑娘节" target="民族"></edge>
+      <edge id="459" source="苗族四月八姑娘节" target="节日"></edge>
+      <edge id="546" source="苗年*" target="苗族"></edge>
+      <edge id="547" source="苗年*" target="节日"></edge>
+      <edge id="548" source="苗年*" target="祭祀"></edge>
+      <edge id="550" source="庙会（东岳庙庙会）" target="庙会"></edge>
+      <edge id="553" source="庙会（东岳庙庙会）" target="信仰"></edge>
+      <edge id="554" source="庙会（东岳庙庙会）" target="民间"></edge>
+      <edge id="571" source="庙会（妙峰山庙会)" target="庙会"></edge>
+      <edge id="572" source="庙会（妙峰山庙会)" target="香会"></edge>
+      <edge id="574" source="庙会（妙峰山庙会)" target="香客"></edge>
+      <edge id="581" source="泰山东岳庙会习俗" target="庙会"></edge>
+      <edge id="582" source="泰山东岳庙会习俗" target="民间"></edge>
+      <edge id="583" source="泰山东岳庙会习俗" target="信仰"></edge>
+      <edge id="584" source="泰山东岳庙会习俗" target="香客"></edge>
+      <edge id="640" source="青海湖祭海" target="祭海"></edge>
+      <edge id="642" source="青海湖祭海" target="祭祀"></edge>
+      <edge id="644" source="青海湖祭海" target="活动"></edge>
+      <edge id="647" source="大坝高装" target="文化"></edge>
+      <edge id="648" source="大坝高装" target="表演"></edge>
+      <edge id="649" source="大坝高装" target="艺术"></edge>
+      <edge id="772" source="庄浪县高抬" target="社火"></edge>
+      <edge id="773" source="庄浪县高抬" target="表演"></edge>
+      <edge id="774" source="庄浪县高抬" target="艺术"></edge>
+      <edge id="831" source="蟳埔女习俗" target="妈祖"></edge>
+      <edge id="832" source="蟳埔女习俗" target="新娘"></edge>
+      <edge id="833" source="蟳埔女习俗" target="习俗"></edge>
+      <edge id="856" source="塔吉克族婚俗" target="婚俗"></edge>
+      <edge id="857" source="塔吉克族婚俗" target="新娘"></edge>
+      <edge id="858" source="塔吉克族婚俗" target="新郎"></edge>
+      <edge id="859" source="塔吉克族婚俗" target="婚礼"></edge>
+      <edge id="895" source="肃北雪山蒙古族服饰" target="蒙古族"></edge>
+      <edge id="896" source="肃北雪山蒙古族服饰" target="服饰"></edge>
+      <edge id="897" source="肃北雪山蒙古族服饰" target="妇女"></edge>
+      <edge id="916" source="畲族服饰" target="畲族"></edge>
+      <edge id="917" source="畲族服饰" target="服饰"></edge>
+      <edge id="919" source="畲族服饰" target="图案"></edge>
+      <edge id="920" source="黎族传统服饰" target="黎族"></edge>
+      <edge id="921" source="黎族传统服饰" target="服饰"></edge>
+      <edge id="922" source="黎族传统服饰" target="方言"></edge>
+      <edge id="924" source="黎族传统服饰" target="传统"></edge>
+      <edge id="925" source="黎族传统服饰（民族研究所）" target="黎族"></edge>
+      <edge id="926" source="黎族传统服饰（民族研究所）" target="方言"></edge>
+      <edge id="927" source="黎族传统服饰（民族研究所）" target="服饰"></edge>
+      <edge id="929" source="黎族传统服饰（民族研究所）" target="图案"></edge>
+      <edge id="976" source="裕固族服饰*" target="服饰"></edge>
+      <edge id="977" source="裕固族服饰*" target="文化"></edge>
+      <edge id="978" source="裕固族服饰*" target="民族"></edge>
+      <edge id="996" source="哈萨克族服饰" target="刺绣"></edge>
+      <edge id="997" source="哈萨克族服饰" target="图案"></edge>
+      <edge id="998" source="哈萨克族服饰" target="服饰"></edge>
+      <edge id="1001" source="侗年*" target="侗族"></edge>
+      <edge id="1002" source="侗年*" target="农历"></edge>
+      <edge id="1004" source="侗年*" target="节日"></edge>
+      <edge id="1036" source="中和节（永济背冰）" target="社火"></edge>
+      <edge id="1037" source="中和节（永济背冰）" target="表演"></edge>
+      <edge id="1038" source="中和节（永济背冰）" target="民俗"></edge>
+      <edge id="1060" source="布依族三月三（贵州省贞丰县）" target="布依族"></edge>
+      <edge id="1061" source="布依族三月三（贵州省贞丰县）" target="三月三"></edge>
+      <edge id="1063" source="布依族三月三（贵州省贞丰县）" target="节日"></edge>
+      <edge id="1065" source="布依族三月三（贵州省望谟县）" target="布依族"></edge>
+      <edge id="1066" source="布依族三月三（贵州省望谟县）" target="三月三"></edge>
+      <edge id="1067" source="布依族三月三（贵州省望谟县）" target="对歌"></edge>
+      <edge id="1075" source="彝族年" target="彝族"></edge>
+      <edge id="1076" source="彝族年" target="民俗"></edge>
+      <edge id="1078" source="彝族年" target="文化"></edge>
+      <edge id="1107" source="网船会*" target="庙会"></edge>
+      <edge id="1108" source="网船会*" target="信仰"></edge>
+      <edge id="1109" source="网船会*" target="渔民"></edge>
+      <edge id="1111" source="侗族“月也”习俗" target="侗族"></edge>
+      <edge id="1112" source="侗族“月也”习俗" target="芦笙"></edge>
+      <edge id="1113" source="侗族“月也”习俗" target="文化"></edge>
+      <edge id="1114" source="侗族“月也”习俗" target="活动"></edge>
+      <edge id="1121" source="达斡尔族传统婚俗" target="男方"></edge>
+      <edge id="1122" source="达斡尔族传统婚俗" target="女方"></edge>
+      <edge id="1123" source="达斡尔族传统婚俗" target="新娘"></edge>
+      <edge id="1126" source="哈萨克族婚俗" target="仪式"></edge>
+      <edge id="1127" source="哈萨克族婚俗" target="婚礼"></edge>
+      <edge id="1128" source="哈萨克族婚俗" target="婚俗"></edge>
+      <edge id="1129" source="哈萨克族婚俗" target="男方"></edge>
+      <edge id="1130" source="回族传统婚俗" target="新娘"></edge>
+      <edge id="1131" source="回族传统婚俗" target="新郎"></edge>
+      <edge id="1134" source="回族传统婚俗" target="男方"></edge>
+      <edge id="1136" source="锡伯族婚俗" target="新郎"></edge>
+      <edge id="1137" source="锡伯族婚俗" target="婚俗"></edge>
+      <edge id="1138" source="锡伯族婚俗" target="新娘"></edge>
+      <edge id="1139" source="锡伯族婚俗" target="女方"></edge>
+      <edge id="1140" source="婚俗（彝族传统婚俗）" target="彝族"></edge>
+      <edge id="1141" source="婚俗（彝族传统婚俗）" target="新娘"></edge>
+      <edge id="1143" source="婚俗（彝族传统婚俗）" target="婚俗"></edge>
+      <edge id="1206" source="马仙信俗" target="信俗"></edge>
+      <edge id="1207" source="马仙信俗" target="信仰"></edge>
+      <edge id="1209" source="马仙信俗" target="活动"></edge>
+      <edge id="1230" source="布依族服饰" target="布依族"></edge>
+      <edge id="1231" source="布依族服饰" target="服饰"></edge>
+      <edge id="1233" source="布依族服饰" target="蜡染"></edge>
+      <edge id="1235" source="侗族服饰" target="侗族"></edge>
+      <edge id="1237" source="侗族服饰" target="图案"></edge>
+      <edge id="1239" source="侗族服饰" target="妇女"></edge>
+      <edge id="1256" source="端午节（罗店划龙船习俗）" target="端午"></edge>
+      <edge id="1257" source="端午节（罗店划龙船习俗）" target="习俗"></edge>
+      <edge id="1259" source="端午节（罗店划龙船习俗）" target="表演"></edge>
+      <edge id="1270" source="七夕节（乞巧节）" target="乞巧"></edge>
+      <edge id="1271" source="七夕节（乞巧节）" target="活动"></edge>
+      <edge id="1274" source="七夕节（乞巧节）" target="文化"></edge>
+      <edge id="1301" source="炎帝祭典（宝鸡）" target="祭祀"></edge>
+      <edge id="1302" source="炎帝祭典（宝鸡）" target="文化"></edge>
+      <edge id="1304" source="炎帝祭典（宝鸡）" target="活动"></edge>
+      <edge id="1311" source="那达慕（青海海西）" target="蒙古族"></edge>
+      <edge id="1312" source="那达慕（青海海西）" target="文化"></edge>
+      <edge id="1313" source="那达慕（青海海西）" target="祭海"></edge>
+      <edge id="1314" source="那达慕（青海海西）" target="民族"></edge>
+      <edge id="1316" source="那达慕（新疆和静）" target="蒙古族"></edge>
+      <edge id="1317" source="那达慕（新疆和静）" target="文化"></edge>
+      <edge id="1318" source="那达慕（新疆和静）" target="民族"></edge>
+      <edge id="1319" source="那达慕（新疆和静）" target="传统"></edge>
+      <edge id="1376" source="蒙古族婚礼（阿日奔苏木婚礼）" target="蒙古族"></edge>
+      <edge id="1377" source="蒙古族婚礼（阿日奔苏木婚礼）" target="婚礼"></edge>
+      <edge id="1378" source="蒙古族婚礼（阿日奔苏木婚礼）" target="新郎"></edge>
+      <edge id="1379" source="蒙古族婚礼（阿日奔苏木婚礼）" target="新娘"></edge>
+      <edge id="1385" source="蒙古族婚礼（蒙古族婚俗）" target="蒙古族"></edge>
+      <edge id="1387" source="蒙古族婚礼（蒙古族婚俗）" target="婚俗"></edge>
+      <edge id="1388" source="蒙古族婚礼（蒙古族婚俗）" target="婚礼"></edge>
+      <edge id="1389" source="蒙古族婚礼（蒙古族婚俗）" target="女方"></edge>
+      <edge id="1405" source="苗族服饰（湖南湘西）" target="苗族"></edge>
+      <edge id="1406" source="苗族服饰（湖南湘西）" target="苗族服饰"></edge>
+      <edge id="1408" source="苗族服饰（湖南湘西）" target="服饰"></edge>
+      <edge id="1409" source="苗族服饰（湖南湘西）" target="图案"></edge>
+      <edge id="1410" source="苗族服饰（贵州桐梓）" target="苗族"></edge>
+      <edge id="1411" source="苗族服饰（贵州桐梓）" target="苗族服饰"></edge>
+      <edge id="1412" source="苗族服饰（贵州桐梓）" target="图案"></edge>
+      <edge id="1413" source="苗族服饰（贵州桐梓）" target="蜡染"></edge>
+      <edge id="1414" source="苗族服饰（贵州桐梓）" target="挑花"></edge>
+      <edge id="1415" source="苗族服饰（贵州安顺）" target="苗族"></edge>
+      <edge id="1416" source="苗族服饰（贵州安顺）" target="服饰"></edge>
+      <edge id="1417" source="苗族服饰（贵州安顺）" target="蜡染"></edge>
+      <edge id="1418" source="苗族服饰（贵州安顺）" target="妇女"></edge>
+      <edge id="1420" source="苗族服饰（关岭布依族）" target="苗族"></edge>
+      <edge id="1421" source="苗族服饰（关岭布依族）" target="苗族服饰"></edge>
+      <edge id="1422" source="苗族服饰（关岭布依族）" target="图案"></edge>
+      <edge id="1423" source="苗族服饰（关岭布依族）" target="刺绣"></edge>
+      <edge id="1424" source="苗族服饰（关岭布依族）" target="方言"></edge>
+      <edge id="1425" source="苗族服饰（贵州纳雍）" target="苗族"></edge>
+      <edge id="1427" source="苗族服饰（贵州纳雍）" target="苗族服饰"></edge>
+      <edge id="1428" source="苗族服饰（贵州纳雍）" target="服饰"></edge>
+      <edge id="1429" source="苗族服饰（贵州纳雍）" target="刺绣"></edge>
+      <edge id="1430" source="苗族服饰（贵州剑河）" target="苗族"></edge>
+      <edge id="1431" source="苗族服饰（贵州剑河）" target="刺绣"></edge>
+      <edge id="1432" source="苗族服饰（贵州剑河）" target="苗族服饰"></edge>
+      <edge id="1433" source="苗族服饰（贵州剑河）" target="图案"></edge>
+      <edge id="1435" source="苗族服饰（贵州台江）" target="苗族"></edge>
+      <edge id="1436" source="苗族服饰（贵州台江）" target="苗族服饰"></edge>
+      <edge id="1437" source="苗族服饰（贵州台江）" target="刺绣"></edge>
+      <edge id="1440" source="苗族服饰（贵州榕江）" target="图案"></edge>
+      <edge id="1441" source="苗族服饰（贵州榕江）" target="服饰"></edge>
+      <edge id="1444" source="苗族服饰（贵州榕江）" target="民族"></edge>
+      <edge id="1445" source="苗族服饰（贵州六盘水）" target="服饰"></edge>
+      <edge id="1446" source="苗族服饰（贵州六盘水）" target="蜡染"></edge>
+      <edge id="1448" source="苗族服饰（贵州六盘水）" target="刺绣"></edge>
+      <edge id="1449" source="苗族服饰（贵州六盘水）" target="挑花"></edge>
+      <edge id="1475" source="端午节（嘉兴端午习俗）" target="习俗"></edge>
+      <edge id="1476" source="端午节（嘉兴端午习俗）" target="端午"></edge>
+      <edge id="1478" source="端午节（嘉兴端午习俗）" target="端午节"></edge>
+      <edge id="1480" source="端午节（蒋村龙舟胜会）" target="龙舟"></edge>
+      <edge id="1483" source="端午节（蒋村龙舟胜会）" target="龙王"></edge>
+      <edge id="1484" source="端午节（蒋村龙舟胜会）" target="端午"></edge>
+      <edge id="1495" source="七夕节（石塘七夕习俗）" target="七夕"></edge>
+      <edge id="1498" source="七夕节（石塘七夕习俗）" target="节日"></edge>
+      <edge id="1499" source="七夕节（石塘七夕习俗）" target="习俗"></edge>
+      <edge id="1500" source="七夕节（天河乞巧习俗）" target="乞巧"></edge>
+      <edge id="1501" source="七夕节（天河乞巧习俗）" target="七夕"></edge>
+      <edge id="1502" source="七夕节（天河乞巧习俗）" target="织女"></edge>
+      <edge id="1504" source="七夕节（天河乞巧习俗）" target="活动"></edge>
+      <edge id="1550" source="妈祖祭典（洞头妈祖祭典）" target="妈祖"></edge>
+      <edge id="1552" source="妈祖祭典（洞头妈祖祭典）" target="文化"></edge>
+      <edge id="1553" source="妈祖祭典（洞头妈祖祭典）" target="信俗"></edge>
+      <edge id="1554" source="妈祖祭典（洞头妈祖祭典）" target="信仰"></edge>
+      <edge id="1620" source="庙会（九华山庙会）" target="庙会"></edge>
+      <edge id="1621" source="庙会（九华山庙会）" target="农历"></edge>
+      <edge id="1622" source="庙会（九华山庙会）" target="传统"></edge>
+      <edge id="1661" source="嫘祖信俗" target="祭祀"></edge>
+      <edge id="1662" source="嫘祖信俗" target="庙会"></edge>
+      <edge id="1664" source="嫘祖信俗" target="活动"></edge>
+      <edge id="1746" source="端午节（泽林旱龙舟）" target="龙舟"></edge>
+      <edge id="1747" source="端午节（泽林旱龙舟）" target="屈原"></edge>
+      <edge id="1749" source="端午节（泽林旱龙舟）" target="五月"></edge>
+      <edge id="1750" source="七夕节（郧西七夕）" target="七夕"></edge>
+      <edge id="1752" source="七夕节（郧西七夕）" target="织女"></edge>
+      <edge id="1753" source="七夕节（郧西七夕）" target="文化"></edge>
+      <edge id="1754" source="七夕节（郧西七夕）" target="乞巧"></edge>
+      <edge id="1771" source="三月三（报京三月三）" target="侗族"></edge>
+      <edge id="1772" source="三月三（报京三月三）" target="芦笙"></edge>
+      <edge id="1773" source="三月三（报京三月三）" target="三月三"></edge>
+      <edge id="1785" source="妈祖祭典（海口天后祀奉）" target="妈祖"></edge>
+      <edge id="1787" source="妈祖祭典（海口天后祀奉）" target="祭祀"></edge>
+      <edge id="1788" source="妈祖祭典（海口天后祀奉）" target="庙会"></edge>
+      <edge id="1866" source="庙会（苏州轧神仙庙会）" target="庙会"></edge>
+      <edge id="1867" source="庙会（苏州轧神仙庙会）" target="文化"></edge>
+      <edge id="1869" source="庙会（苏州轧神仙庙会）" target="民间"></edge>
+      <edge id="1880" source="庙会（宝顶架香庙会）" target="香会"></edge>
+      <edge id="1882" source="庙会（宝顶架香庙会）" target="香客"></edge>
+      <edge id="1883" source="庙会（宝顶架香庙会）" target="农历"></edge>
+      <edge id="1884" source="庙会（宝顶架香庙会）" target="活动"></edge>
+      <edge id="1885" source="庙会（丰都庙会）" target="庙会"></edge>
+      <edge id="1887" source="庙会（丰都庙会）" target="文化"></edge>
+      <edge id="1888" source="庙会（丰都庙会）" target="香会"></edge>
+      <edge id="1915" source="冼夫人信俗(茂名)" target="冼夫人"></edge>
+      <edge id="1916" source="冼夫人信俗(茂名)" target="信俗"></edge>
+      <edge id="1917" source="冼夫人信俗(茂名)" target="祭祀"></edge>
+      <edge id="1918" source="冼夫人信俗(茂名)" target="民间"></edge>
+      <edge id="1920" source="冼夫人信俗（海口）" target="冼夫人"></edge>
+      <edge id="1922" source="冼夫人信俗（海口）" target="军坡"></edge>
+      <edge id="1923" source="冼夫人信俗（海口）" target="民间"></edge>
+      <edge id="1925" source="冼夫人信俗（安定县）" target="冼夫人"></edge>
+      <edge id="1926" source="冼夫人信俗（安定县）" target="信俗"></edge>
+      <edge id="1927" source="冼夫人信俗（安定县）" target="军坡"></edge>
+      <edge id="1930" source="冼夫人信俗(澄迈县)" target="冼夫人"></edge>
+      <edge id="1931" source="冼夫人信俗(澄迈县)" target="信俗"></edge>
+      <edge id="1932" source="冼夫人信俗(澄迈县)" target="军坡"></edge>
+      <edge id="2026" source="婚俗（赫哲族婚俗）" target="婚俗"></edge>
+      <edge id="2027" source="婚俗（赫哲族婚俗）" target="新娘"></edge>
+      <edge id="2028" source="婚俗（赫哲族婚俗）" target="新郎"></edge>
+      <edge id="2030" source="婚俗（畲族婚俗）" target="畲族"></edge>
+      <edge id="2031" source="婚俗（畲族婚俗）" target="对歌"></edge>
+      <edge id="2032" source="婚俗（畲族婚俗）" target="婚俗"></edge>
+      <edge id="2036" source="婚俗（瑶族婚俗）" target="瑶族"></edge>
+      <edge id="2037" source="婚俗（瑶族婚俗）" target="婚俗"></edge>
+      <edge id="2039" source="婚俗（瑶族婚俗）" target="新郎"></edge>
+      <edge id="2050" source="端午节（屈原故里端午习俗）（秭归）" target="端午"></edge>
+      <edge id="2051" source="端午节（屈原故里端午习俗）（秭归）" target="屈原"></edge>
+      <edge id="2052" source="端午节（屈原故里端午习俗）（秭归）" target="龙舟"></edge>
+      <edge id="2053" source="端午节（屈原故里端午习俗）（秭归）" target="粽子"></edge>
+      <edge id="2054" source="端午节（屈原故里端午习俗）（秭归）" target="五月"></edge>
+      <edge id="2055" source="端午节（屈原故里端午习俗）" target="端午"></edge>
+      <edge id="2056" source="端午节（屈原故里端午习俗）" target="屈原"></edge>
+      <edge id="2057" source="端午节（屈原故里端午习俗）" target="龙舟"></edge>
+      <edge id="2058" source="端午节（屈原故里端午习俗）" target="粽子"></edge>
+      <edge id="2059" source="端午节（屈原故里端午习俗）" target="五月"></edge>
+      <edge id="2096" source="瑶族盘王节" target="瑶族"></edge>
+      <edge id="2098" source="瑶族盘王节" target="仪式"></edge>
+      <edge id="2120" source="端午节*" target="端午节"></edge>
+      <edge id="2122" source="端午节*" target="龙舟"></edge>
+      <edge id="2123" source="端午节*" target="粽子"></edge>
+    </edges>
+  </graph>
+</gexf>
